@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.9.0">
   <diagram name="Página-1" id="rTOb0h5a656A8xjJTrcR">
-    <mxGraphModel dx="1888" dy="3108" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="2390" dy="1297" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -417,7 +417,7 @@
           <mxGeometry x="570" y="2120" width="95" height="90" as="geometry" />
         </mxCell>
         <mxCell id="KMsBzZ7I8KhfifZ9gOS--162" value="&lt;font color=&quot;#e6e6e6&quot;&gt;CLOSE CONNECTION AND EXIT&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;rounded=1;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="557.5" y="2270" width="120" height="60" as="geometry" />
+          <mxGeometry x="557.5" y="2260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KMsBzZ7I8KhfifZ9gOS--164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.253;entryY=0.833;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="KMsBzZ7I8KhfifZ9gOS--162" target="KMsBzZ7I8KhfifZ9gOS--162">
           <mxGeometry relative="1" as="geometry" />
